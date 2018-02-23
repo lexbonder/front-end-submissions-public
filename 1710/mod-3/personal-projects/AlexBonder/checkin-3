@@ -1,0 +1,26 @@
+## Project Name: Step to the Beat
+
+#### Check In: 3
+
+#### Progress made?
+
+Trim a lot of unneccesary features out of app. focus on the act of getting a playlist, reduce number of user options on site. made flow less confusing. Added ability to push all user data into firebase. Site responds differently to users signing in for first time rather than a returning user.
+
+#### What deliverables still need to be completed from your last checkin?
+
+Push a playlist to spotify
+  - I found all of the resources i'll need to make that happen, it'll be done by the end of the day the latest.
+  
+The reafactor requires an overahul of css which is hideous.
+
+#### Next Steps?
+
+Get a playlist sent to spotify
+
+Pull more songs from spotify for longer playlists
+
+#### What are your concerns (if any)
+
+I'll let you know after i see how this checkin goes :)
+
+#### Deliverables for next checkin:
