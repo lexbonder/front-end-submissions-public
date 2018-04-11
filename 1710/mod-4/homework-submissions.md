@@ -37,9 +37,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
   - Broadcast a message to connected users when someone connects or disconnects
   - Add support for nicknames
   - Add “{user} is typing” functionality
-* [House of Vars Blog Post]()
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [House of Vars Blog Post](https://docs.google.com/document/d/1G0Rnop87YNT6SwkiIvnCH300us-Gx3Lj0P3B9lK5pw0/edit?usp=sharing)
+* [Pattern Party Repo](https://github.com/lexbonder/pattrn-party)
+* [Pattern Party GitHub Pages](https://lexbonder.github.io/pattrn-party/)
 
 ### Amanda Tjan
 
@@ -49,8 +49,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Palette Picker PWA](https://palette-picker-pwa-tjan.herokuapp.com/)
 * [Websockets Tutorial]() - What additional items did you work on?
 * [House of Vars Blog Post]()
-* [Pattern Party Repo](https://github.com/soytjan/pattrn-party)
-* [Pattern Party GitHub Pages](https://soytjan.github.io/pattrn-party/)
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Bruce Chung
 
@@ -159,7 +159,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial](https://github.com/michellehoffman/express-tutorial) - All items
 * [Promise Practice Exercises](https://github.com/michellehoffman/promise-practice)
 * [Palette Picker PWA](http://palette-generator-mh-pwa.herokuapp.com/)
-* [Websockets Tutorial](https://github.com/michellehoffman/websockets-homework) - Broadcast connect and disconnect messages, add support for nicknames, add "{user} is typing" functionality
+* [Websockets Tutorial]() - What additional items did you work on?
 * [House of Vars Blog Post](https://medium.com/@hoffman.michelle.e/a-first-timers-contribution-to-open-source-d0c9b0af059a)
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
